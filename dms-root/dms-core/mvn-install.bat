@@ -1,0 +1,1 @@
+cmd /k mvn -e clean install:install-file -DgroupId=org.springframework -DartifactId=spring-context -Dversion=4.2.6.RELEASE -Dfile=C:\Work\dev_space\dms-core\spring-context-4.2.6.RELEASE.jar -Dpackaging=jar
